@@ -1,4 +1,14 @@
-@import "bootstrap"; 
-h1{
-color: red;
+header{
+  padding-top: 60px;
+  width: 700px;
+  margin: auto;
+  text-align: center;
+}
+
+#content{
+  h1{
+    text-align: center;
+  }
+  width: 700px;
+  margin: auto;
 }
